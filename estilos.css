@@ -1,0 +1,18 @@
+h1{  color: rgb(96, 39, 189);
+    font-family: fantasy; } <!--letra-->
+
+.jasper{color: rgb(0, 167, 167);
+    font-family: 'Times New Roman', Times, serif}
+
+    .jp{color: rgb(0, 167, 167);
+        font-family: 'Times New Roman', Times, serif}
+
+
+        table,td {border-collapse: collapse;
+
+            border: 2px solid rgb(219, 1, 248);
+            }
+
+    img:hover{
+        filter: blur(30px);
+    }
